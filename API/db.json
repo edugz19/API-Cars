@@ -1,0 +1,32 @@
+{
+  "coches": [
+    {
+      "marca": "Seat",
+      "modelo": "Córdoba",
+      "ano": "1998",
+      "combustible": "Gasolina",
+      "id": 1
+    },
+    {
+      "marca": "Opel",
+      "modelo": "Corsa",
+      "ano": "2018",
+      "combustible": "Gasolina",
+      "id": 2
+    },
+    {
+      "marca": "Citroen",
+      "modelo": "C3",
+      "ano": "2008",
+      "combustible": "Diésel",
+      "id": 3
+    },
+    {
+      "marca": "Seat",
+      "modelo": "Chorizo",
+      "ano": "",
+      "combustible": "",
+      "id": 4
+    }
+  ]
+}
